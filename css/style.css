@@ -50,6 +50,11 @@ hr.separator {
   font-size: 26px;
 }
 
+div.ads {
+
+  overflow: auto;
+}
+
 /*** Light Body ***/
 
 body.light {
